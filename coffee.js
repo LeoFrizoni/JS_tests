@@ -1,3 +1,5 @@
+//Non-functional script, just studying classes and functions in JS
+
 var grmcoffee = window.querySelector("input#grmcoffee");
 var mlwater = window.querySelector("input#lmwater");
 var output = window.querySelector("#output")
